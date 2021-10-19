@@ -5,7 +5,7 @@ The history of computing is longer than the history of computing hardware and mo
 # Concrete devices
 Digital computing is intimately tied to the representation of numbers.[1] But long before abstractions like the number arose, there were mathematical concepts to serve the purposes of civilization. These concepts are implicit in concrete practices such as:
 
-One-to-one correspondence,[2] a rule to count how many items, e.g. on a tally stick, eventually abstracted into numbers.
+One-to-one correspondence a rule to count how many items, e.g. on a tally stick, eventually abstracted into numbers.
 Comparison to a standard, a method for assuming reproducibility in a measurement, for example, the number of coins.
 The 3-4-5 right triangle was a device for assuring a right angle, using ropes with 12 evenly spaced knots, for example.
 
