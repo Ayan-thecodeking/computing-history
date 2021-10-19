@@ -18,7 +18,7 @@ By the High Middle Ages, the positional Hindu–Arabic numeral system had reache
 
 # Early computation
 
-Main article: Timeline of computing hardware 2400 BC–1949
+Main article: Timeline of computing hardware 2400 BC–1949.
 See also: History of computing hardware
 Mathematical statements need not be abstract only; when a statement can be illustrated with actual numbers, the numbers can be communicated and a community can arise. This allows the repeatable, verifiable statements which are the hallmark of mathematics and science. These kinds of statements have existed for thousands of years, and across multiple civilizations, as shown below:
 
